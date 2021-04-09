@@ -25,7 +25,7 @@ skills:
 
 - name: Econometric Modeling
   icon: "/images/sections/skills/cloud.png"
-  summary: "Linear and Generalized methods, time series, survival"
+  summary: "Linear and Generalized methods, time series, survival and hazard modeling"
 
 - name: Python
   logo: /images/sections/skills/pythonlogo.png

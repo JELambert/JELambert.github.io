@@ -10,7 +10,7 @@ menu:
 ---
 
 ### Dissertation
-- [**Food, Familiarity, and Forecasting: Modeling Coups with Computational Methods**](http://jelambert.com/dissertation). [PDF](https://stars.library.ucf.edu/etd2020/243/)
+- [**Food, Familiarity, and Forecasting: Modeling Coups with Computational Methods**](http://jelambert.com/dissertation). [PDF](https://jelambert.com/posts/dissertation/)
 
 ### Reports and Policy Papers
 - [Reassessing Rebellion](https://oefresearch.org/publications/reassessing-rebellion). *One Earth Future*, with Eric Keels, Jay Benson, and John Filitz.  [(PDF)](https://oefresearch.org/sites/default/files/documents/publications/Reassessing%20Rebellion-%20Exploring%20Recent%20Trends%20in%20Civil%20War%20Dynamics.pdf)

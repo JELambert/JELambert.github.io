@@ -21,7 +21,7 @@ buttons:
 # your projects
 projects:
 - name: PsyCL Dataset
-  logo: /images/sections/skills/go.png
+  logo: /images/sections/skills/go22.png
   role: Manager/Developer
   timeline: "2017 - Present"
   url: "http://psycldataset.com"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -42,7 +42,7 @@ projects:
   role: Creator
   timeline: "2020 - Present"
   #repo: https://github.com/hossainemruz/toha
-  url: "https://docs.google.com/document/d/1NVamNDJGEBu6PUl9qpIix5whzA5TJHPh-HPjBc0Fza4/edit"
+  url: "https://jelambert.com/posts/cypress/canine/"
   summary: An open resource for handling canines.
   tags: ["canine","behavior"]
 

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Selected Publications
+  name: Selected Publications <sub><sup>(all pubs here)</sup></sub>
   id: accomplishments
   enable: true
   weight: 5
