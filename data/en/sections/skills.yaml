@@ -2,7 +2,7 @@ section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -10,16 +10,23 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Python
-  logo: /images/sections/skills/pythonlogo.png
-  summary: "Advanced programming skills utilizing Python."
-  url: "https://kubernetes.io/"
 
 - name: Natural Language Processing
   icon: /images/sections/skills/go.png
-  summary: "Ability to perform a variety of NLP tasks"
-  url: "https://golang.org/"
+  summary: "Latent Dirchlet Allocation, sentiment analysis, operational code and leadership trait analysis."
 
 - name: Machine Learning
   icon: "/images/sections/skills/cloud.png"
-  summary: "Both explanation and forecasting driven modeling."
+  summary: "Ensemble and Deep Learning applications in forecasting."
+
+- name: Geospatial Modeling and Visualization
+  icon: "/images/sections/skills/cloud.png"
+  summary: "Spatial lag and error modeling, visualization, remote sensing."
+
+- name: Econometric Modeling
+  icon: "/images/sections/skills/cloud.png"
+  summary: "Linear and Generalized methods, time series, survival"
+
+- name: Python
+  logo: /images/sections/skills/pythonlogo.png
+  summary: "Advanced programming skills utilizing Python."
