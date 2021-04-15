@@ -1,6 +1,6 @@
 ---
 title: "Talks"
-date: 2021-03-30T08:06:25+06:00
+date: 2021-04-15T08:06:25+06:00
 description: Comprehensive Talks
 menu:
   sidebar:
@@ -9,8 +9,8 @@ menu:
     weight: 10
 ---
 # 2021
-## American Political Science Association
-**Religious Pluralism and Mass Violence: A Global Analysis**
+#### American Political Science Association
+###### Religious Pluralism and Mass Violence: A Global Analysis
 * with Gunes Tezcur
 
 ## International Studies Association Annual Meeting (Virtual)

@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2021-03-30T08:06:25+06:00
+date: 2021-04-15T08:06:25+06:00
 description: Comprehensive Publications
 menu:
   sidebar:
@@ -8,6 +8,10 @@ menu:
     identifier: publications
     weight: 10
 ---
+### Peer Reviewed
+- Introducing the Commons Synthesis Project: Topics and trends in the study of common-pool resource. *International Journal of the Commons* (Forthcoming), _Joshua E. Lambert_, Graham Epstein, Jennifer Joel, and Jacopo Baggio.
+
+- [Reassessing Private Military and Security Company (PMSC) 'Competition' in Civil War: Lessons from Sierra Leone](https://doi.org/10.1080/09592318.2019.1601869). *Small Wars & Insurgencies* (2019) - Issue 3, Christopher Faulkner, _Joshua E. Lambert_, and Jonathan Powell.
 
 ### Dissertation
 - [**Food, Familiarity, and Forecasting: Modeling Coups with Computational Methods**](http://jelambert.com/dissertation). [PDF](https://jelambert.com/posts/dissertation/)
@@ -17,8 +21,6 @@ menu:
 
 - [Fish Wars: The Causes and Consequences of Fisheries Conflict in Tanzania](https://securefisheries.org/fish-wars-tanzania). *One Earth Future*, with Sarah M. Glaser, Colleen Devlin, Ciera Villegas, and Natasia Poinsatte.  [(PDF)](https://securefisheries.org/sites/default/files/Fish%20Wars_final.pdf)
 
-### Peer Reviewed
-- [Reassessing Private Military and Security Company (PMSC) 'Competition' in Civil War: Lessons from Sierra Leone](https://doi.org/10.1080/09592318.2019.1601869). *Small Wars & Insurgencies* (2019) - Issue 3, with Christopher Faulkner and Jonathan Powell.
 
 ### Commentary
 - [What belief in extraterrestrial visitors to Earth reveals about trust in elections](https://theconversation.com/what-belief-in-extraterrestrial-visitors-to-earth-reveals-about-trust-in-elections-155011?utm_source=twitter&utm_medium=bylinetwitterbutton). *The Conversation*, with Anthony Licciardi Jr.
@@ -38,8 +40,6 @@ menu:
 # Projects and Working Papers
 ## Under Review
 
-- **Introducing the Commons Synthesis Project: Topics and trends in the study of common-pool resource**
-<br>*with Graham Epstein, Jennifer Joel, and Jacopo Baggio*
 
 - **The Causes and Consequences of Fisheries Conflict around the Horn of Africa**
 <br>*with Sarah M. Glaser, Colleen Devlin, and Ciera Villegas*
