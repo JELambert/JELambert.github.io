@@ -58,7 +58,3 @@ menu:
 - [Security Studies Web Data (sswebdata)](https://github.com/JELambert/sswebdata) Python package to import open-access web data related to conflict, state characteristics, and social phenomena into a pandas data frame.
 
 - [Psychological Characteristics of Leaders](http://psycldataset.com/) Website for the PsyCL Data set which is a collection of at-a-distance derived cognitive and personality values attained through analysis of over 54 million spoken words.
-
-### Blog
-
--[Personal Blog](https://jelambert.com/blog-archive)
