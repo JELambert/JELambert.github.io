@@ -10,12 +10,10 @@ menu:
 ---
 # 2021
 ##### American Political Science Association (Seattle, OR)
-###### Religious Pluralism and Mass Violence: A Global Analysis
-* with Gunes Tezcur
+* **Religious Pluralism and Mass Violence: A Global Analysis**, with Gunes Tezcur
 
 ##### International Studies Association Annual Meeting (Virtual)
-###### Militarized Fisheries Conflicts Associated with Global Climate
-* with Cullen Hendrix, Sarah M. Glaser, and Paige Roberts
+* **Militarized Fisheries Conflicts Associated with Global Climate**, with Cullen Hendrix, Sarah M. Glaser, and Paige Roberts
 
 ##### Centre College Guest Lecture (IST 210 - Research Design)
 ###### Overview of GIS in Empirical Social Science
