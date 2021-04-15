@@ -1,7 +1,7 @@
 ---
 
 title: "Cypress Synergy, LLC"
-date: 2021-01-01T08:06:25+06:00
+date: 2021-04-14T08:06:25+06:00
 menu:
   sidebar:
     name: About
