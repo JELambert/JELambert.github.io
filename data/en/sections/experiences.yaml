@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: SparkCognition Government Systems
+    url: "https://sparkgov.ai"
+    location: Austin, Texas
+    # company overview
+    overview:
+  positions:
+  - designation: Machine Learning Engineer I
+    start:  2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end:  2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and implement AI-NLP solutions for defense customers across a range of sectors.
+
+
+- company:
     name: University of Central Florida
     url: "https://ucf.edu"
     location: Remote
@@ -18,9 +34,9 @@ experiences:
     overview: Utilize and optimize systems for quantifying adaptive pathways relative to climate change at various levels of government.
   positions:
   - designation: Postdoctoral Fellow and ML/NLP Researcher
-    start: November 2020
+    start:  2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end:  2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design NLP systems to model variation both cross-sectional and longitudinal among municipalities and counties in the gulf coast.
@@ -29,12 +45,12 @@ experiences:
 
 - company:
     name: Cypress Synergy, LLC
-    url: "http://jelambert.com/cypress-synergy/"
+    url: "https://jelambert.com/posts/cypress/about/"
     location: Remote
     overview:
   positions:
   - designation: Founder
-    start: 2021
+    #start: 2021
     responsibilities:
     - Data science consultancy
     - GIS systems implementation

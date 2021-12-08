@@ -7,17 +7,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Postdoctoral Fellow and ML/NLP Researcher
+designation: Machine Learning Engineer
 # your company information
 company:
-  name: University of Central Florida
-  url: "https://www.ucf.edu"
+  name: SparkCognition Government Systems
+  url: "https://sparkgov.ai"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/cv-20.pdf"
+resume: "files/cv-21.pdf"
 
 # a summary about you
-summary: "I am a passionate computational social scientist with over a decade of experience working with quantiative and qualitative methods to better understand and predict social phenomena."
+summary: "I am a passionate computational social scientist with over a decade of experience working with quantiative and qualitative methods to better understand and predict social and political phenomena. I work for SGS providing AI and NLP solutions to the US defense industry."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

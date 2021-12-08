@@ -9,7 +9,12 @@ menu:
     weight: 10
 ---
 ### Peer Reviewed
-- Introducing the Commons Synthesis Project: Topics and trends in the study of common-pool resource. *International Journal of the Commons* (Forthcoming), _Joshua E. Lambert_, Graham Epstein, Jennifer Joel, and Jacopo Baggio.
+
+- [The causes and consequences of fisheries conflict around the Horn of Africa](https://doi.org/10.1177/00223433211038476). *Journal of Peace Research* (2021),  Colleen Devlin, Sarah M. Glaser, _Joshua E. Lambert_, and Ciera Villegas.
+
+- [The Human Right to Water and Sanitation: Using Natural Language Processing to Uncover Patterns in Academic Publishing](https://www.mdpi.com/2073-4441/13/24/3501). *Water* (2021), Christopher Faulkner, _Joshua E. Lambert_, Bruce Wilson, and Matthew Faulkner.
+
+- [Introducing the Commons Synthesis Project: Topics and trends in the study of common-pool resource](http://doi.org/10.5334/ijc.1078). *International Journal of the Commons* (2021), _Joshua E. Lambert_, Graham Epstein, Jennifer Joel, and Jacopo Baggio.
 
 - [Reassessing Private Military and Security Company (PMSC) 'Competition' in Civil War: Lessons from Sierra Leone](https://doi.org/10.1080/09592318.2019.1601869). *Small Wars & Insurgencies* (2019) - Issue 3, Christopher Faulkner, _Joshua E. Lambert_, and Jonathan Powell.
 
