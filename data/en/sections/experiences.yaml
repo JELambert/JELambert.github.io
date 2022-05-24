@@ -17,7 +17,7 @@ experiences:
     # company overview
     overview:
   positions:
-  - designation: Machine Learning Engineer I
+  - designation: Machine Learning Engineer
     start:  2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end:  2021
