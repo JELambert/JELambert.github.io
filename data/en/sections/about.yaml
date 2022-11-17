@@ -7,17 +7,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Machine Learning Engineer
+designation: Senior Machine Learning Engineer
 # your company information
 company:
-  name: SparkCognition Government Systems
-  url: "https://sparkgov.ai"
+  name: Factset
+  url: "https://www.factset.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/cv-22.pdf"
 
 # a summary about you
-summary: "I am a passionate computational social scientist with over a decade of experience working with quantiative and qualitative methods to better understand and predict social and political phenomena. I work for SGS providing AI and NLP solutions to the US defense industry."
+summary: "I am a passionate computational social scientist with over a decade of experience working with quantiative and qualitative methods to better understand and predict social and political phenomena. I work for Factset providing ESG and AI solutions to a range of customers across the financial industry."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

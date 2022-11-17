@@ -11,20 +11,50 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Factset
+    url: "https://www.factset.com/"
+    location: Austin, Texas
+    # company overview
+    overview:
+  positions:
+  - designation: Senior Machine Learning Engineer
+    start:  2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end:  2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and implement AI-NLP solutions for defense customers across a range of sectors.
+    - Construct and manage a large-scale graph based product that includes convolutional and attention networks.
+
+- company:
+    name: Cypress Synergy, LLC
+    url: "https://jelambert.com/posts/cypress/about/"
+    location: Remote
+    overview:
+  positions:
+  - designation: Founder, Senior Consulting Data Scientist
+    start: 2015
+    responsibilities:
+    - Data science consultancy
+    - GIS systems implementation
+    - Forecasting
+    - NLP Vector Search 
+
+- company:
     name: SparkCognition Government Systems
     url: "https://sparkgov.ai"
     location: Austin, Texas
     # company overview
     overview:
   positions:
-  - designation: Machine Learning Engineer I
+  - designation: Machine Learning Engineer
     start:  2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end:  2021
+    end:  2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design and implement AI-NLP solutions for defense customers across a range of sectors.
-
+    - Built an application that used CNN dense embeddings on technical documents for increased search functionality. 
 
 - company:
     name: University of Central Florida
@@ -41,20 +71,6 @@ experiences:
     responsibilities:
     - Design NLP systems to model variation both cross-sectional and longitudinal among municipalities and counties in the gulf coast.
     - Communicate changes and integrate with the broader NAS funded group.
-
-
-- company:
-    name: Cypress Synergy, LLC
-    url: "https://jelambert.com/posts/cypress/about/"
-    location: Remote
-    overview:
-  positions:
-  - designation: Founder
-    #start: 2021
-    responsibilities:
-    - Data science consultancy
-    - GIS systems implementation
-    - Forecasting
 
 - company:
     name: University of Central Florida
